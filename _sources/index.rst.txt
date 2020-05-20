@@ -7,7 +7,7 @@ Welcome to asd12's documentation!
 =================================
 
 
-Link schema documentation <https://j-skoczek.github.io/schema/index.html>
+`Link schema documentation <https://j-skoczek.github.io/schema/index.html>`
 
 .. toctree::
    :maxdepth: 2
